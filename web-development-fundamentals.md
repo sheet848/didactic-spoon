@@ -1,0 +1,3 @@
+## Web standards
+1. [How the web works](https://developer.mozilla.org/en-US/docs/Learn_web_development/Getting_started/Web_standards/How_the_web_works#the_other_parts_of_the_toolbox)
+2. 
